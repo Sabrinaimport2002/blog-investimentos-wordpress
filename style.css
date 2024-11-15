@@ -1,6 +1,7 @@
 /*
 Theme Name: Investimentos
 Author: Sabrina Vitória
+Author URI: http://example.com
 Description: Tema personalizado para exibir investimentos
 Version: 1.0
 */
@@ -11,4 +12,13 @@ body {
   margin: 0;
   padding: 0;
   box-sizing: border-box;
+}
+
+main {
+  margin: 30px 60px;
+}
+
+a {
+  color: #000000;
+  text-decoration: none !important;
 }
