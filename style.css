@@ -1,0 +1,14 @@
+/*
+Theme Name: Investimentos
+Author: Sabrina Vitória
+Description: Tema personalizado para exibir investimentos
+Version: 1.0
+*/
+
+/* Estilo Global */
+body {
+  font-family: "Roboto", sans-serif;
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
